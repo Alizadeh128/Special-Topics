@@ -1,3 +1,6 @@
+"""نمودار sin و cos بین صفر تا 2p رسم کرده و ناحیه بین دو منحنی را بصورت هاشور خورده ترسیم کنید."""
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
